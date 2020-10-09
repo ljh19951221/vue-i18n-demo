@@ -3,7 +3,7 @@
 （代码粗糙，未做任何优化，作为一个小练习）
 
 效果图：
-[![asciicast](./view/view.mp4)](./view/view.mp4)
+[![asciicast](./view/view.gif)](./view/view.gif)
 
 
 > A Vue.js project
